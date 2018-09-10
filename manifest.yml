@@ -1,0 +1,4 @@
+applications:
+- name: todo-backend
+  instances: 1
+  path: target/todolist-0.0.1-SNAPSHOT.jar
